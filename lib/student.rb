@@ -1,3 +1,3 @@
-def Student
+class Student
 
 end
